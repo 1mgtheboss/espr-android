@@ -1,4 +1,4 @@
 espr-android
 ============
 
-ESPR
+© 2014 Manojit Ghosh
