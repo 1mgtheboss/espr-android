@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name"><i><b>ESPR</b></i></string>
+    <string name="action_settings">Settings</string>
+
+    <color name="white">#ffffff</color>
+    <color name="red">#d1394a</color>
+    <color name="green">#439b03</color>
+
+    <string name="button1">\u0020<b>Eat. Sleep. Party.</b>\u0020</string>
+    <string name="button2">\u0020<b>Repeat.</b>\u0020</string>
+    <string name="title_activity_display_esp"><i><b>My Options</b></i></string>
+    <string name="button3">\u0020<b>HangOut</b>\u0020</string>
+    <string name="button4">\u0020<b>Maps</b>\u0020</string>
+    <string name="button5">\u0020<b>Docs</b>\u0020</string>
+    <string name="button6">\u0020<b>Purchase</b>\u0020</string>
+    <string name="title_activity_display_ch"><i><b>Cure Hangover</b></i></string>
+    <string name="MY_AD_UNIT_ID">a152d84159c576d</string>
+    <string name="pI"></string>
+    
+
+</resources>
